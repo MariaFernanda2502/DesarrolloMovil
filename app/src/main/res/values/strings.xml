@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loginestatico</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="Login">Iniciar Sesión</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="incorrecto">El usuario es incorrecto!</string>
+</resources>
